@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="70b31a96-2147-4985-92e1-50c86ab5c478">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a537ea31-ca72-465e-8e84-5c51cd3711e2">
   <producedTypes>
-    <objectType typeId="03e418eb-9178-4f6a-973a-b042e693b580" valueTypeId="d3b8fcc9-90a3-4727-bfc6-d846b2875087"/>
-    <refType typeId="890bd691-92cc-401e-9168-9afc41ffbe6e" valueTypeId="5c11b80c-1a0e-43ae-91e0-c71849cc0c0c"/>
-    <selectionType typeId="a3a06c86-e5f5-4847-a67b-92679dbe625d" valueTypeId="4ecd18a7-1659-46fb-a48e-75aa55cacfc3"/>
-    <listType typeId="99d11d6b-38e2-4210-bacf-ef0ec753cae6" valueTypeId="491bcef7-9501-4e92-a6e5-a28df297be34"/>
-    <managerType typeId="4fd43cec-5596-43b3-bb7d-4a0f8c029178" valueTypeId="a94cc019-f209-4869-9f04-2914154fa653"/>
+    <objectType typeId="b4f3ff35-214a-4e28-bea7-2db4e101f997" valueTypeId="a8317e6d-d1eb-4913-b1ac-d1518a0e24c5"/>
+    <refType typeId="0f6cda01-7fad-4b4e-a44d-fd124ea3181e" valueTypeId="fd91ac3b-e732-4bf8-b64a-a9e3123a0f5f"/>
+    <selectionType typeId="9fe9a01b-c7a5-4cda-b6ab-54f1ae6a150b" valueTypeId="7163a1fa-d72b-4f08-8ec8-f2b4e1e234fb"/>
+    <listType typeId="ff2bd368-8398-4edf-ad35-e57e7aa9ca9d" valueTypeId="f2e1ff9f-fc73-4bc7-9ad4-04610abdcc42"/>
+    <managerType typeId="41256288-29fe-46c0-8975-54b5d45d4c55" valueTypeId="565c4e63-40f2-4320-8a67-a2fccd8e980a"/>
   </producedTypes>
   <name>Товары</name>
   <synonym>
@@ -30,7 +30,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <attributes uuid="0352dd13-c2d9-42e5-9474-42126824889e">
+  <attributes uuid="40068ad2-af88-4864-b212-d7323d50e13e">
     <name>Артикул</name>
     <synonym>
       <key>ru</key>
